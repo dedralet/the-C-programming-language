@@ -4,7 +4,7 @@
 
 int main(){
 	int lower, upper, step;
-	int celc, fahr;
+	int celc, fahr; 	// I didn't use float, because there would be no floating part after calculation
 
 	lower = 0;
 	upper = 300;
