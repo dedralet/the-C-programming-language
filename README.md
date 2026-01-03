@@ -1,4 +1,4 @@
-# the-C-programming-language
+# The C Programming Language
 
 My answers to exercises from the book *The C Programming Language* (2nd edition) by B. Kernighan and D. Ritchie.
 
