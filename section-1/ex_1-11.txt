@@ -1,0 +1,9 @@
+Question: 
+	How would you test the word count program?
+	What kind of input are most likely to uncover bugs if there are any?
+
+Answer:
+	Here is several types of input I`ll check for bugs:
+	- EOF  (only)
+	- input with another escape sequences
+	- large input to see if int overflows
